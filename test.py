@@ -6,7 +6,7 @@ Created on Tue Nov 10 18:28:39 2020
 """
 
 from Caeser import caesar
-from scalar import scalar
+from Scalar import scalar
 
 def test():
     assert caesar("Hslh qhjah lza",7) == print("ALEA JACTA EST")
