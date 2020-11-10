@@ -7,4 +7,4 @@ Created on Tue Nov 10 18:28:39 2020
 
 from Caeser import caesar
 def test_caeser():
-    assert caeser("Hslh qhjah lza",7) == print("ALEA JACTA EST")
+    assert caesar("Hslh qhjah lza",7) == print("ALEA JACTA EST")
