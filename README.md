@@ -1,8 +1,13 @@
 # Caeser_Julian
-encoder
+Caesar Verschlüsselung
 
 Dieses Programm verschlüsselt bzw entschlüsselt einen Text nach dem Cäsar-Algorithmus. 
 Dabei wird zu jedem Buchstaben im Alphabet eine fixe Zahl (= Code) dazugezählt. Nach "Z" soll wieder "A" folgen. Mit der negativen Zahl als Code kann der Text wieder entschlüsselt werden.
+
+Scalar
+
+Berechnet das Skalarprodukt zweier Vektoren.
+
 
 Copyright Julian Schürz
 
