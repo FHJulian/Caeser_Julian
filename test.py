@@ -6,11 +6,11 @@ Created on Tue Nov 10 18:28:39 2020
 """
 
 from Caeser import caesar
-#from Scalar import scalar
+from Scalar import scalar
 
 def test_caesar():
-    assert caesar("Hslh qhjah lza",7) == print("ALEA JACTA EST")
-"""
+    caesar("Hslh qhjah lza",7) == print("ALEA JACTA EST")
+
+
 def test_scalar():
-    assert scalar([1,2],[1,2]) == 5
-"""
+    return scalar([1,2],[1,2]) == 5
