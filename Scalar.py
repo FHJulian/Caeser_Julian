@@ -7,7 +7,7 @@ Created on Mon Dec  2 09:42:19 2019
 
 # Uebungsaufgaben 2 / Aufgabe 1 / Skalarprodukt berechnen
 
-print("Eingabe der Vekroten: scalar([Zahl1,Zahl2,Zahl3,...],[Zahl3,Zahl4,Zahl5,...])")
+#print("Eingabe der Vekroten: scalar([Zahl1,Zahl2,Zahl3,...],[Zahl3,Zahl4,Zahl5,...])")
 def scalar(vec1,vec2):
 
     if len(vec1)==len(vec2):
