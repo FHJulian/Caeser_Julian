@@ -9,8 +9,8 @@ from Caeser import caesar
 from Scalar import scalar
 
 def test_caesar():
-    assert caesar("Hslh qhjah lza",7) == print("ALEA JACTA EST")
+    assert caesar("Hslh qhjah lza",7) == print("ALEA JACTA ESE")
 
 def test_scalar():
-    return scalar([1,2],[1,2]) == 5
+    return scalar([1,2],[1,2]) == 4
 
